@@ -1,0 +1,6 @@
+{
+  "name": "Minhas Despesas",
+  "description": "Organizador de despesas com notificações e gráficos",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
